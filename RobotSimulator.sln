@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSimulator", "RobotSimulator\RobotSimulator.csproj", "{B419484B-1EC0-4DCA-AFF7-772BE63864F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSimulator.Tests", "RobotSimulator.Tests\RobotSimulator.Tests.csproj", "{6E3DA9D5-8095-4F79-B186-F7FF118CB240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B419484B-1EC0-4DCA-AFF7-772BE63864F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B419484B-1EC0-4DCA-AFF7-772BE63864F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B419484B-1EC0-4DCA-AFF7-772BE63864F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B419484B-1EC0-4DCA-AFF7-772BE63864F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3DA9D5-8095-4F79-B186-F7FF118CB240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3DA9D5-8095-4F79-B186-F7FF118CB240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3DA9D5-8095-4F79-B186-F7FF118CB240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3DA9D5-8095-4F79-B186-F7FF118CB240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D03C4F16-3B93-4513-BF31-4A8008FF46A7}
+	EndGlobalSection
+EndGlobal
